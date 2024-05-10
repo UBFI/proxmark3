@@ -118,3 +118,5 @@ jobs:
         env:
           CHECKARGS: "--clientbin ./client/build/proxmark3"
         run: make client/check
+
+        
